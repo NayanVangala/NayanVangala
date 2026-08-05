@@ -42,10 +42,6 @@ first project shipped under hack club's stardance challenge. building toward a r
 **ai / cv**
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat)
 
-### `$ github`
-
-<img src="https://github-readme-stats.vercel.app/api?username=NayanVangala&show_icons=true&theme=default&hide_border=true" height="150"/>
-
 <div align="center">
 
 `still figuring it out as i go`
