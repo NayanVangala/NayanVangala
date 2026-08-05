@@ -1,3 +1,5 @@
+<div align="center">
+
 # nayan vangala
 
 **building at the intersection of hardware, ai, and accessibility**
@@ -19,6 +21,9 @@ ai memory assistant on meta ray-ban glasses. passive scene capture + semantic se
 
 **lexia**
 real-time dyslexia reading assistant on glasses + raspberry pi. palm-gesture trigger, on-device ocr, offline tts. zero cloud dependency.
+
+**mediscan**
+first project shipped under hack club's stardance challenge. building toward a raspberry pi 5.
 
 ### `$ stack`
 
