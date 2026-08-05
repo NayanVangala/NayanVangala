@@ -22,15 +22,20 @@ real-time dyslexia reading assistant on glasses + raspberry pi. palm-gesture tri
 
 ### `$ stack`
 
-<p>
-<img src="https://cdn.simpleicons.org/python/3776AB" height="24"/>
-<img src="https://cdn.simpleicons.org/swift/FA7343" height="24"/>
-<img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="24"/>
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="24"/>
-<img src="https://cdn.simpleicons.org/flask/888888" height="24"/>
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="24"/>
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="24"/>
-</p>
+**languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat)
+
+**frontend**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat)
+
+**backend / infra**
+![Flask](https://img.shields.io/badge/-Flask-888888?style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat)
+
+**data**
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat)
+
+**ai / cv**
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat)
 
 ### `$ github`
 
